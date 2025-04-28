@@ -5,7 +5,7 @@
 - Perpustakaan Digital (Cerita & Lagu)
 - Integrasi Google Meet
 
-# database :
+# tables :
 - digital_content -> konten edukasi
 - games -> data game
 - student_games -> riwayat bermain
